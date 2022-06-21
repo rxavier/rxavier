@@ -3,7 +3,7 @@
 #### Summary
 I am a data scientist holding a Masters degree in Economics. I have 7+ years of experience working with statistical and machine learning models, involving projects in public policy research as well as in consulting.
 
-In my current role I am tasked with building and leading a data science team at one of Uruguay's largest consulting firms. This includes hiring, reviewing business opportunities, and managing and working on multiple projects, ranging from business intelligence to machine learning deployment.
+I work at Mercado Libre, Latin America's largest e-commerce site, as a Data Science Technical Leader. Prior to that I built and led a data science team at one of Uruguay's largest consulting firms.
 
 #### Current projects
 
